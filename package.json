@@ -1,0 +1,22 @@
+{
+  "name": "bitbybit",
+  "version": "1.0.0",
+  "description": "<!-- This is going to be my first personal portfolio website. Dull, amusing,  colourful, monochrome, everything in the world, nothing at all, and everything  that's in between -->",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mandel94/bitBybit.git"
+  },
+  "author": "Manuel De Luzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mandel94/bitBybit/issues"
+  },
+  "homepage": "https://github.com/mandel94/bitBybit#readme",
+  "dependencies": {
+    "sass": "^1.45.1"
+  }
+}
